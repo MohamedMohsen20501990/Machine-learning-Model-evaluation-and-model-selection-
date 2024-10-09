@@ -1,0 +1,1 @@
+In this notebook you will find a code step by step for evaluating the model and making a model selection using the trainig error and the cross validation error that will give you insights wheter you model suffering from high bias or high varience and how to determine the using the model evaluation proces.
